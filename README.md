@@ -125,7 +125,7 @@ Program Manager: Aidan Nguyen
 - [x] Week 1 — Monthly dataset aggregation
 - [x] Weeks 2–3 — Dataset structuring and validation
 - [x] Weeks 2–3 — Mortgage rate enrichment
-- [ ] Weeks 4–5 — Data cleaning and preparation
+- [x] Weeks 4–5 — Data cleaning and preparation
 - [ ] Week 6 — Feature engineering and market metrics
 - [ ] Week 7 — Outlier detection (IQR)
 - [ ] Weeks 8–10 — Tableau dashboard development
