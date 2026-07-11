@@ -113,7 +113,6 @@ etc.) and writes its outputs to `CSV-output/`.
 
 **Team DA34**
 - Alan Adams — Team Lead
-- Anna Cen
 - Charith Dasari
 - Claire Liu
 - Yue Gao
